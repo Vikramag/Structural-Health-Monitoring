@@ -18,7 +18,8 @@ The image of shock tube and three-DOF shear building is shown below.
 
 A typical AE data and cluster is shown below:
 
-[![AE_signal.jpg](https://s19.postimg.org/az00c2xmb/AE_signal.jpg)](https://postimg.org/image/n0ve686un/) [![cluster.jpg](https://s19.postimg.org/7s5gsg5gj/cluster.jpg)](https://postimg.org/image/kjjmyyf8f/)
+
+[![AE_signal.jpg](https://s19.postimg.org/az00c2xmb/AE_signal.jpg)](https://postimg.org/image/n0ve686un/)  [![cluster.jpg](https://s19.postimg.org/7s5gsg5gj/cluster.jpg)](https://postimg.org/image/kjjmyyf8f/)
 
 **Further processes are given in readme files in each folder.**
 
