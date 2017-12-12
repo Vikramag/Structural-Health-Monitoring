@@ -6,7 +6,9 @@ Two approaches are demonstrated over here for damage detection:
 
 Both the approaches are applied to the synthetically generated 3D Gaussian clusters (for demonstration purpose). In actual experiments these clusters are obtained after several procedures (discussed later) on Acoustic Emission (AE) data. Data used was obtained from several shock tube experiments at the NDT (Non Destructive Testing) Lab, IIT Guwahati, India. 
 
-The image of shock tube and three-DOF shear building is shown below.
+The image of shock tube and three-DOF shear building is shown below:
+
+
 [![shock_tube.jpg](https://s19.postimg.org/pedbxjisj/shock_tube.jpg)](https://postimg.org/image/jq716nefz/) [![shear_building.jpg](https://s19.postimg.org/8131iofrn/shear_building.jpg)](https://postimg.org/image/qtewm9c5r/)
 
 
